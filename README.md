@@ -1,6 +1,8 @@
 ## Hi there, I'm CloudIDK23 👋
 
-<img src="https://www.deviantart.com/piropii/art/penny-parker-gif-f2u-802978714" width="100%">
+<p align="center">
+  <img src="https://i.imgur.com/tu-gif.gif" width="100%" alt="Penny Parker Banner">
+</p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
