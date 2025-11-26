@@ -1,4 +1,8 @@
-## Hi there, I'm CloudIDK23 👋
+
+<h3 align="center">
+  Hi there, I'm CloudIDK23!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif" width="30%"> 
@@ -12,10 +16,14 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+### 🔧 Frameworks
+![Spring Boot]([https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green))
+
 #### 🔧 Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
