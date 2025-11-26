@@ -1,11 +1,11 @@
 
 <h3 align="center">
   Hi there, I'm CloudIDK23!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="display: block; width="28" margin: auto;>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="28">
 </h3>
 
 
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif" width="30%"> 
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif" style="display: block;  margin: auto; width="30%"> 
 
 #### 🔧 Languages
 
