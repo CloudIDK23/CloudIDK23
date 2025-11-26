@@ -1,7 +1,7 @@
 
 <h3 align="center">
   Hi there, I'm CloudIDK23!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" margin: auto;>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="display: block; width="28" margin: auto;>
 </h3>
 
 
