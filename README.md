@@ -1,10 +1,7 @@
 ## Hi there, I'm CloudIDK23 👋
 
-<p align="center">
-  <img src="https://i.imgur.com/tu-gif.gif" width="100%" alt="Penny Parker Banner">
-</p>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif"> 
 
 #### 🔧 Languages
 
