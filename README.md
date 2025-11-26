@@ -6,7 +6,7 @@
 <div align="center">
 
 <div align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif" width="500">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif" width="400">
  </div>
 
 #### 🔧 Languages
