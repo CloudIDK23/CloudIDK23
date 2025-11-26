@@ -5,7 +5,7 @@
 </h3>
 
 
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif" style="display: block; margin: auto;" width="30%">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ViaWY5MDlzNjl4a3hzaDZkODgyNGZ1ZThxdmloNzVoeG1zNzRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx5rcQZyTHA2gIgQ6s/giphy.gif" style="display: block; margin: 0 auto;" width="30%">
 
 #### 🔧 Languages
 
