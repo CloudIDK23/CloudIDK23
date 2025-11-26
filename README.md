@@ -1,4 +1,7 @@
 ## Hi there, I'm CloudIDK23 👋
+
+<img src="https://www.deviantart.com/piropii/art/penny-parker-gif-f2u-802978714" width="100%">
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 #### 🔧 Languages
@@ -17,7 +20,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
- ### 💳 Github Profile Summary Card
- 
-
--->
