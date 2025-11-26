@@ -1,4 +1,5 @@
 ## Hi there, I'm CloudIDK23 👋
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 #### 🔧 Languages
 
@@ -18,10 +19,5 @@
 
  ### 💳 Github Profile Summary Card
  
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
-  
- </div>
 
 -->
